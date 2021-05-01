@@ -1,7 +1,7 @@
 # Commit Message Convention
 
 ## 개요
-> Witch 프로젝트의 커밋메시지 컨벤션은 아래의 udacity 를 기반으로 진행됩니다.
+> Witch 프로젝트의 커밋메시지 컨벤션은 아래의 udacity 를 기반으로 진행됩니다.  
 [👉 Udacity commit style guide](https://udacity.github.io/git-styleguide/)
 
 ## 커밋 메시지 구조
