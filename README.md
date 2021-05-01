@@ -2,7 +2,7 @@
 > 공통 컨벤션 정의를 위한 공간
 
 ## Common
-- [👨🏻‍💻 Commit Message](common/commit)
+- [👨🏻‍💻 Commit Message](common/commit.md)
 - Branch
 
 ## Server
