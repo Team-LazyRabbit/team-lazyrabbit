@@ -8,6 +8,4 @@
 ## Server
 ## iOS
 ## Android
-- Kotlin
-- XML
-- Resource
+- [Android Guidelines](android_guidelines.md)
