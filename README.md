@@ -7,5 +7,8 @@
 
 ## Server
 ## iOS
+- [Swift Style Guide](https://github.com/StyleShare/swift-style-guide)
+- [Swift API Guide](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd)
+
 ## Android
 - [Android Guidelines](android_guidelines.md)
